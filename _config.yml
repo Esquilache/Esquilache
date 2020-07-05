@@ -30,7 +30,7 @@ twitter_username: EsquilacheGG
 github_username:  Esquilache
 
 # Build settings
-theme: minima
+theme: jekyll-theme-merlot
 plugins:
   - jekyll-feed
 
