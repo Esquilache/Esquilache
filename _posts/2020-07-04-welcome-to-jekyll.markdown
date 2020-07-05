@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "New Title!"
 date:   2020-07-04 23:22:07 -0500
 categories: Jekyll Update
